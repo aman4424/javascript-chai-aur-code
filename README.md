@@ -1,2 +1,2 @@
 # javascript-chai-aur-code
-a repo for practice javascript  codes
+a repo for practicing javascript  codes
